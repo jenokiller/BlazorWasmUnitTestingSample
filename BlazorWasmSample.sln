@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmSample", "BlazorWasmSample\BlazorWasmSample.csproj", "{9810754D-5EB5-4C01-BF8B-872C7946C6A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.AspNetCore.Components.Testing", "Microsoft.AspNetCore.Components.Testing\Microsoft.AspNetCore.Components.Testing.csproj", "{67C16FD1-1C07-442E-8945-3D343C7A3A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsBlazor.UnitTests", "DevOpsBlazor.UnitTests\DevOpsBlazor.UnitTests.csproj", "{1D0040D1-4035-49D3-BEAD-44F7F29C04A4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9810754D-5EB5-4C01-BF8B-872C7946C6A1} = {9810754D-5EB5-4C01-BF8B-872C7946C6A1}
+		{67C16FD1-1C07-442E-8945-3D343C7A3A0A} = {67C16FD1-1C07-442E-8945-3D343C7A3A0A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9810754D-5EB5-4C01-BF8B-872C7946C6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9810754D-5EB5-4C01-BF8B-872C7946C6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9810754D-5EB5-4C01-BF8B-872C7946C6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9810754D-5EB5-4C01-BF8B-872C7946C6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C16FD1-1C07-442E-8945-3D343C7A3A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C16FD1-1C07-442E-8945-3D343C7A3A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C16FD1-1C07-442E-8945-3D343C7A3A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C16FD1-1C07-442E-8945-3D343C7A3A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0040D1-4035-49D3-BEAD-44F7F29C04A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0040D1-4035-49D3-BEAD-44F7F29C04A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0040D1-4035-49D3-BEAD-44F7F29C04A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0040D1-4035-49D3-BEAD-44F7F29C04A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1A3192-25EB-4A2B-A1A4-98AFED9115CD}
+	EndGlobalSection
+EndGlobal

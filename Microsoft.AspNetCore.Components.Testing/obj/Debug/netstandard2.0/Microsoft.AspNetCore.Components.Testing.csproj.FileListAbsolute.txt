@@ -1,0 +1,9 @@
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.deps.json
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.dll
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.pdb
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.AssemblyInfoInputs.cache
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.AssemblyInfo.cs
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.csproj.CoreCompileInputs.cache
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.dll
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.pdb
+C:\Users\hanaoka.shun\source\repos\BlazorWasmSample\Microsoft.AspNetCore.Components.Testing\obj\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Testing.csprojAssemblyReference.cache
